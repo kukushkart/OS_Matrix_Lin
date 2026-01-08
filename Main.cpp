@@ -11,7 +11,7 @@
 using namespace std;
 using namespace chrono;
 
-const int N = 50;
+const int N = 20;
 
 void initMatrix(vector<vector<double>>& matrix) {
     for (int i = 0; i < N; i++) {
@@ -250,3 +250,4 @@ int main() {
 
     return 0;
 }
+
